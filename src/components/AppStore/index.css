@@ -1,0 +1,54 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+.app-store {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 100vh;
+}
+
+.app-store-con {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-bottom: 40px;
+}
+
+.input-search-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-icon {
+  width: 250%;
+}
+
+.search-icon {
+  width: 20px;
+  cursor: pointer;
+}
+
+.ul-con {
+  list-style-type: none;
+  width: 25%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ul-con-app {
+  width: 80%;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

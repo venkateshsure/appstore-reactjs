@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.list-con-tab {
+  list-style-type: none;
+  color: #7b8794;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.style {
+  text-decoration: underline;
+  color: #2563eb;
+}
